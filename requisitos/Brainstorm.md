@@ -1,37 +1,47 @@
-# Brainstorm
+Introdução
 
-### 1. Controle de Entrada e Saída de Veículos
-- **Sistema Automatizado**: Implementar câmeras com reconhecimento de placas e cancelas automáticas.
-- **Tickets Eletrônicos**: Utilizar tickets ou QR Codes para rastrear o tempo de permanência.
-- **Cadastro de Veículos Frequentes**: Criar um banco de dados para clientes regulares, facilitando a identificação e cobrança.
+Este relatório apresenta as ideias discutidas pelos integrantes do grupo no brainstorming realizado para melhorar a eficiência, segurança e experiência do cliente em estacionamentos. As sugestões foram divididas em categorias temáticas para melhor organização e compreensão.
 
-### 2. Redução de Superlotação e Organização
-- **Contagem Digital de Vagas**: Sistema digital para mostrar vagas disponíveis em tempo real.
-- **Sinalização Luminosa**: Usar luzes para indicar vagas ocupadas e livres.
+1. Controle de Entrada e Saída de Veículos
 
+Bruno: Sistema automatizado de câmeras com reconhecimento de placas para cancelas automáticas.
 
-### 3. Controle dos Manobristas
-- **Sistema de Rastreamento**: Implementar um sistema digital para indicar onde cada carro foi estacionado.
-- **Monitoramento de Ações**: Rastrear as atividades dos manobristas via aplicativo interno.
+Danilo: Implementação de tickets eletrônicos ou QR Codes para monitorar o tempo de permanência.
 
+Moura: Criação de um banco de dados para cadastro de veículos frequentes, facilitando a identificação e cobrança.
 
-### 4. Segurança e Pagamento
-- **Monitoramento em Tempo Real**: Instalar câmeras para monitorar o estacionamento e evitar fraudes.
-- **Automação de Pagamentos**: Oferecer opções de pagamento via cartão, pix, dinheiro e aplicativos.
-- **Validação Eletrônica**: Sistema de validação na saída para garantir que todos os pagamentos sejam feitos.
+2. Redução de Superlotação e Organização
 
+Pedro: Sistema digital para mostrar vagas disponíveis em tempo real.
 
-### 5. Melhor Experiência do Cliente
-- **Atendimento Digital**: Oferecer suporte via WhatsApp ou chatbot para dúvidas e reservas.
-- **Programa de Fidelidade**: Criar um programa de recompensas para clientes frequentes.
+Giovana: Uso de sinalização luminosa para indicar vagas ocupadas e livres.
 
+3. Controle dos Manobristas
 
-### 6. Sustentabilidade e Inovação
-- **Vagas para Veículos Elétricos**: Oferecer vagas com estações de recarga para carros elétricos.
-- **Energia Solar**: Instalar painéis solares para reduzir custos energéticos.
-- **Espaço para Bicicletas e Patinetes**: Criar áreas específicas para bicicletas e patinetes.
+Bruno: Sistema de rastreamento para indicar onde cada carro foi estacionado.
 
+Danilo: Monitoramento das ações dos manobristas via aplicativo interno.
 
-### 7. Gestão e Controle
-- **Auditorias Periódicas**: Realizar auditorias para evitar fraudes e garantir a integridade do sistema.
-- **Relatórios Automáticos**: Gerar relatórios automáticos sobre fluxo de veículos e ocupação.
+4. Segurança e Pagamento
+
+Moura: Monitoramento em tempo real para evitar fraudes e aumentar a segurança.
+
+Pedro: Oferecer automação de pagamentos com opções variadas, como cartão, pix, dinheiro e aplicativos.
+
+Giovana: Implementar um sistema de validação eletrônica na saída para garantir o pagamento.
+
+5. Melhor Experiência do Cliente
+
+Bruno: Suporte digital via WhatsApp ou chatbot para dúvidas e reservas.
+
+Danilo: Criação de um programa de fidelidade para recompensar clientes frequentes.
+
+6. Sustentabilidade e Inovação
+
+Moura: Estações de recarga para veículos elétricos.
+
+Pedro: Instalação de painéis solares para redução de custos energéticos.
+
+7. Gestão e Controle
+
+Giovana: Auditorias periódicas para evitar fraudes e garantir a integridade do sistema.
