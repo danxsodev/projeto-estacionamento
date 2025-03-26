@@ -1,7 +1,3 @@
-Introdução
-
-Este relatório apresenta as ideias discutidas pelos integrantes do grupo no brainstorming realizado para melhorar a eficiência, segurança e experiência do cliente em estacionamentos. As sugestões foram divididas em categorias temáticas para melhor organização e compreensão.
-
 1. Controle de Entrada e Saída de Veículos
 
 Bruno: Sistema automatizado de câmeras com reconhecimento de placas para cancelas automáticas.
