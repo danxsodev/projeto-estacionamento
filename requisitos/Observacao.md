@@ -40,3 +40,46 @@ A integração de recursos automatizados, infraestrutura inteligente e foco na e
 - Vídeo de observação de campo: https://youtu.be/QJjsvOF6enQ
 
 - Trello: https://trello.com/b/eJtfGLVt/cc-estacionamento
+
+<br/>
+
+### Diagrama BPMN (Bizagi Studio)
+![image](https://github.com/user-attachments/assets/f48245a5-7ab7-411e-adfb-3e36b3824158)
+
+<br/>
+
+### Observação Realizada
+
+- Estacionamento com capacidade para 5.000 veículos.
+
+- Duas portarias de entrada/saída.
+  
+- Motorista para o carro na entrada.
+  
+- Recepcionista confirma com manobrista se há vaga disponível.
+  
+- Dados do veículo são capturados (placa, modelo e marca).
+  
+- Veículo é entregue ao manobrista.
+  
+- Recibo de entrada é entregue ao motorista com taxa/hora e horário de entrada.
+
+- Dificuldade observada: manobristas se confundem para encontrar vagas.
+
+<br/>
+
+### Melhorias Possíveis
+
+- Sistema digital de gestão de vagas com atualização em tempo real.
+  
+- OCR (Optical Character Recognition/Reconhecimento Óptico de Caracteres) para leitura automática de placas.
+  
+- Totem de autoatendimento para motoristas.
+  
+- Aplicativo interno para manobristas.
+  
+- Digitalização dos recibos.
+  
+- Comunicação interna via sistema/mensagens.
+  
+- Treinamentos e padronização de procedimentos.
