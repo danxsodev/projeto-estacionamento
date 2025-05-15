@@ -44,7 +44,7 @@ A integração de recursos automatizados, infraestrutura inteligente e foco na e
 <br/>
 
 ### Diagrama BPMN (Bizagi Studio)
-![image](https://github.com/user-attachments/assets/f48245a5-7ab7-411e-adfb-3e36b3824158)
+![prototipo_estacionamento_modeloAntigo](https://github.com/user-attachments/assets/ddd8b103-f017-43d0-947a-215f7e0dd618)
 
 <br/>
 
